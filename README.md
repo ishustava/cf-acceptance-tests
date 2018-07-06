@@ -87,6 +87,7 @@ gvt fetch -revision <revision_number> <import_path>
 If you'd like to add a new dependency just `gvt fetch`.
 
 ## Test Configuration
+
 You must set the environment variable `$CONFIG`
 which points to a JSON file
 that contains several pieces of data
